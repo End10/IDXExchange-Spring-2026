@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#IDX Exchange important API Interaction Files
+crmls_listed.py
+crmls_sold.py
+
+raw_listing/*
+raw_sold/*
