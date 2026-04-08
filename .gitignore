@@ -212,3 +212,6 @@ crmls_sold.py
 
 raw_listing/*
 raw_sold/*
+
+merged_listing.csv
+merged_sold.csv
