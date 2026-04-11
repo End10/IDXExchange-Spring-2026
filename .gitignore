@@ -210,5 +210,17 @@ __marimo__/
 crmls_listed.py
 crmls_sold.py
 
-raw_listing/*
-raw_sold/*
+**/raw_listed/
+**/raw_sold/
+
+merged_listing.csv
+merged_sold.csv
+
+Price_LivingArea_DOM_listings.csv
+Price_LivingArea_DOM_sold.csv
+
+listing_merged_residential.csv
+sold_merged_residential.csv
+
+FRED_rates_listings.csv
+FRED_rates_sold.csv
